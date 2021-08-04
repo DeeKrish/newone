@@ -1,0 +1,145 @@
+What type of file does sitemap refers to?
+CSV
+HTML
+XML
+None
+
+XML
+
+What is return type of function id?
+int
+dict
+float 
+bool
+
+int
+
+What two main structures compose JSON?
+key and value
+All of the menttioned
+array and object
+class and object
+
+key and value
+
+Which is the correct format of writing JSON name value pair?
+name;value
+name='value'
+All of the menctioned
+'name':'value'
+
+'name':'value'
+
+Operators in the same precedence are evaluated in which manner?
+None of the menctioned
+Right to left
+left to right
+Can't say
+
+left to right
+
+Which of the following is not an attribute of tag?
+Method
+action 
+name
+url
+
+name
+
+How to get http header in flask
+request.header
+request.data
+request.redirect
+request.json
+
+request.header
+
+How do ypu check that which version of the Django has been installed?
+python -m django -version
+python -m django --version
+django -version
+django -version python  
+
+python -m django --version
+
+Is a component which set up the execution of tests a nd provides the outcome to the user?
+test suite
+test case
+test runner
+test stop
+
+test runner
+
+What is the correct way to write javascript array?
+var colors='red', 'green', 'blue'
+var colors=['red', 'green', 'blue']
+var colors=(1:'red', 2:'green', 3:'blue')
+var colors=('red', 'green', 'blue')
+
+var colors=(1:'red', 2:'green', 3:'blue')
+
+How pack() function works on tkinter widget?
+left, right, up, down
+row and column wise
+According to x and y coordinate
+None of the above
+
+left, right, up, down
+
+What is the purpose of settings.py?
+To configure settings for django project
+To sync the database schema
+To configure settings for django app
+To set the date and time on server
+
+To configure settings for django project
+
+Config() in python tkinter is used for_____.
+Change property of widget
+Configure the widget
+place the widget
+destroy widget
+
+Configure the widget
+
+How to check version of flask?
+flask.__init__
+flask.__ver__
+flask.variable
+flask.__version__
+
+flask.__version__
+
+
+How to return json in flask?
+request objects
+dumps
+loads
+jsonify()
+
+jsonify()
+
+What is 405 error code in flase?
+Method not allowed
+forbidden
+Authorized
+Not found
+
+Method not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
